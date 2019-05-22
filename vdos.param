@@ -1,0 +1,4 @@
+system_label=si54
+histogram_steps=70
+reciprocal_space_divisions=25-25-25
+output=si54.vdos
